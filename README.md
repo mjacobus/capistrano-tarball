@@ -1,8 +1,13 @@
 # Capistrano::Tarball
 
-Inspired on [Capistrano SCM Copy](https://github.com/xuwupeng2000/capsitrano-scm-gitcopy)
+Deploys by creating a tarball and uploading it to the target server. Inspired on [Capistrano SCM Copy](https://github.com/xuwupeng2000/capsitrano-scm-gitcopy).
 
-Deploys by creating a tarball and uploading it to the target server.
+[![Build Status](https://travis-ci.org/mjacobus/capistrano-tarball.svg)](https://travis-ci.org/mjacobus/capistrano-tarball)
+[![Code Coverage](https://scrutinizer-ci.com/g/mjacobus/capistrano-tarball/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/mjacobus/capistrano-tarball/?branch=master)
+[![Code Climate](https://codeclimate.com/github/mjacobus/capistrano-tarball/badges/gpa.svg)](https://codeclimate.com/github/mjacobus/capistrano-tarball)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/mjacobus/capistrano-tarball/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/mjacobus/capistrano-tarball/?branch=master)
+[![Dependency Status](https://gemnasium.com/mjacobus/capistrano-tarball.svg)](https://gemnasium.com/mjacobus/capistrano-tarball)
+[![Gem Version](https://badge.fury.io/rb/capistrano-tarball.svg)](https://badge.fury.io/rb/capistrano-tarball)
 
 ## Installation
 
