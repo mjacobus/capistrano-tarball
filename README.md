@@ -1,5 +1,10 @@
 # Capistrano::Tarball
 
+## This gem is useless
+Looks like [this gem](https://github.com/aq1018/capistrano-tarball/) does the job.
+
+## The idea
+
 Deploys by creating a tarball and uploading it to the target server. Inspired on [Capistrano SCM Copy](https://github.com/xuwupeng2000/capsitrano-scm-gitcopy).
 
 [![Build Status](https://travis-ci.org/mjacobus/capistrano-tarball.svg)](https://travis-ci.org/mjacobus/capistrano-tarball)
