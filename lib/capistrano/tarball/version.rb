@@ -1,5 +1,7 @@
+require "capistrano/scm"
+
 module Capistrano
-  module Tarball
+  class Tarball < SCM
     VERSION = "0.1.0"
   end
 end
